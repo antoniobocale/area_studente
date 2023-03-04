@@ -1,4 +1,4 @@
-# Area Studente Unimore (Esse3)
+# Area Studente
 
 Client non ufficiale per il servizio Esse3 di Unimore.
 
